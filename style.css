@@ -1,0 +1,46 @@
+html{
+    height: 100%;
+}
+body{
+    font-family: 'Open Sans', sans-serif; min-height: 100%;
+}
+.banner-container{
+    background-color: #D2D1D2; 
+}
+.banner-column{
+    background-color: #989799; min-height: 100vh;
+}
+.navbar-container{
+    background-color: #334860;
+}
+.about-container{
+    background-color: #4A4038;
+}
+.education-container{background-color: #130F0E;}
+.bg-redtype{background-color: #FF0000;}
+.bg-redtype:hover{ color: black !important;}
+.redtype-color{color: azure;}
+.circle-edu{ background-color: #FF0000;
+width: 150px; height: 150px;
+border-radius: 50%;
+}
+.project-container{ background-color:#130F0E;}
+.myimg{object-fit: contain;}
+
+.form-container{
+    background-color: black;
+}
+.bummy-box{font-size: 72px;}
+.inner-form{background-color: #343A3F;}
+.footer{ background-color: #000000;}
+.circle{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: rgb(216, 86, 86);
+    font-size: 40px;
+    text-align: center;
+    color:rgb(158, 158, 158);
+}
+.circle:hover{ background-color: #7b7b7c;}
